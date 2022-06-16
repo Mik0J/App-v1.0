@@ -1,0 +1,17 @@
+D:\Pro\App\ProApp\bin\Debug\ProApp.exe.config
+D:\Pro\App\ProApp\bin\Debug\ProApp.exe
+D:\Pro\App\ProApp\bin\Debug\ProApp.pdb
+D:\Pro\App\ProApp\bin\Debug\Guna.UI2.dll
+D:\Pro\App\ProApp\obj\Debug\ProApp.Form1.resources
+D:\Pro\App\ProApp\obj\Debug\ProApp.Properties.Resources.resources
+D:\Pro\App\ProApp\obj\Debug\ProApp.csproj.GenerateResource.cache
+D:\Pro\App\ProApp\obj\Debug\ProApp.csproj.CoreCompileInputs.cache
+D:\Pro\App\ProApp\obj\Debug\ProApp.csproj.CopyComplete
+D:\Pro\App\ProApp\obj\Debug\ProApp.exe
+D:\Pro\App\ProApp\obj\Debug\ProApp.pdb
+D:\Pro\App\ProApp\obj\Debug\ProApp.csproj.AssemblyReference.cache
+D:\Pro\App\ProApp\obj\Debug\ProApp.UserControls.UC_Dp.resources
+D:\Pro\App\ProApp\obj\Debug\ProApp.UserControls.UC_Ko.resources
+D:\Pro\App\ProApp\obj\Debug\ProApp.UserControls.UC_Odo.resources
+D:\Pro\App\ProApp\obj\Debug\ProApp.UserControls.UC_Sp.resources
+D:\Pro\App\ProApp\obj\Debug\ProApp.Form3.resources
